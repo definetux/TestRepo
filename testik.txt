@@ -5,3 +5,7 @@ hello, wolrld!(2)
 
 my text!
 >>>>>>> 4a640b6dc2397e120b9bd98d9fece7dc19fcadc9
+-----
+*****
+-----
+and now my text!

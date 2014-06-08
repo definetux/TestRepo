@@ -1,7 +1,1 @@
-hello, wolrld!
-
-my text!
------
-*****
------
-and now my text!
+only my text!
